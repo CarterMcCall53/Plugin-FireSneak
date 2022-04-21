@@ -1,0 +1,5 @@
+name: FireTrail-Plugin
+version: '${version}'
+main: org.tartarsauce.firetrailplugin.FireTrailPlugin
+api-version: 1.18
+author: 'simon'

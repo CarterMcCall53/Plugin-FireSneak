@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'org.tartarsauce'
+group = 'dev.cmccall'
 version = '1.0-SNAPSHOT'
 
 repositories {

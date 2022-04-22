@@ -1,5 +1,4 @@
-name: FireTrail-Plugin
+name: FireSneak-Plugin
 version: '${version}'
-main: org.tartarsauce.firetrailplugin.FireTrailPlugin
+main: dev.cmccall.firesneakplugin.FireSneakPlugin
 api-version: 1.18
-author: 'simon'
